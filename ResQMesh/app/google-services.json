@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "485062109155",
+    "project_id": "resqmesh",
+    "storage_bucket": "resqmesh.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485062109155:android:bc5f1917c892b8c74362d6",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCABv1oVPF4ZM7WXnfZaR7-HwlCnUD2Hro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
